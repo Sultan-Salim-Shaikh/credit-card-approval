@@ -1,4 +1,4 @@
-# Credit-card-approval-prediction
+# Credit Card Approval Prediction
 Credit card approval prediction using python
 
 
